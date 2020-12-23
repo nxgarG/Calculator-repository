@@ -29,4 +29,5 @@ if __name__ == '__main__':
             entry = Entry()
             entry.titleassigner(sys.argv[2])
             entry.definitionassigner(sys.argv[3])
-        if sys.argv[1]
+        if sys.argv[1]:
+            pass

@@ -1,6 +1,6 @@
-Terminal ToDo Application.
+Terminal To Do Application.
  - List of arguments
-   - add <title> = add new entry in the todo list
+   - add <title> = add new entry in the list
    - check <title> = check the time of entry
    - remove <title> = remove the entry
    - change <title> = change the time of remainder of entry
