@@ -1,0 +1,23 @@
+the calculator will not be a simple one
+it will have a gui based on tkinter
+
+should except -
+1. basic integers (from 0 to 9)
+2. floats (x.x)
+3. no variables
+4. basic separators like brackets
+5. basic constants like pie, planks constant, Rydbergs constant, mass of fundametal particles and
+   similar stuff
+
+should do -
+1. basic calculations like addition, subtraction, multiplication, division
+2. bit advanced stuff like square, square root, cube, its root
+3. infact it should be able to do any number raised to any number
+4. should have a delete last button press function
+
+should also have a history tab
+should also be able to change the location of the cursor in the expression
+
+design -
+1. first tab should have the basic function
+2. second tab should have advanced functions
