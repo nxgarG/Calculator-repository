@@ -6,7 +6,7 @@ should except -
 2. floats (x.x)
 3. no variables
 4. basic separators like brackets
-5. basic constants like pie, planks constant, Rydbergs constant, mass of fundametal particles and
+5. basic constants like pie, planks constant, Rydberg's constant, mass of fundamental particles and
    similar stuff
 
 should do -
@@ -21,3 +21,6 @@ should also be able to change the location of the cursor in the expression
 design -
 1. first tab should have the basic function
 2. second tab should have advanced functions
+
+first design the working
+then the ui
